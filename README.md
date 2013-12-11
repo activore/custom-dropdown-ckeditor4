@@ -7,7 +7,7 @@ Allows you to create a custom dropdown added to the ckeditor4 toolbar, which out
 
 Original repository name custom-dropdown-ckeditor4.
 
-By Stuart (57u) and improved by Marcus Bointon (Synchro).
+By [Stuart](http://stuartsillitoe.co.uk) ([57u](https://github.com/57u)) with improvements by [Marcus Bointon](http://marcus.bointon.com/) ([Synchro](https://github.com/Synchro)).
 
  * https://github.com/57u/custom-dropdown-ckeditor4
  * https://github.com/Synchro/custom-dropdown-ckeditor4
@@ -22,7 +22,7 @@ CKEDITOR.editorConfig = function( config ) {
     // ...
 
     // Register the strinsert plugin
-	config.extraPlugins = 'strinsert';
+	config.extraPlugins = 'strinsert';:
 };
 ```
 
